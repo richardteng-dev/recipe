@@ -12,3 +12,8 @@ last line changed locally
 # This is a level 1 header
 
 ### This is a level 3 header
+
+- First item
+- Second item
+- Third item
+- Fourth item
