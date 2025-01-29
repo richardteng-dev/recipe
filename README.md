@@ -21,3 +21,5 @@ last line changed locally
 **This is a sentence in bold**
 
 *This is an italicized sentence*
+
+![Image of some food!](recipe.jpg "Food image")
