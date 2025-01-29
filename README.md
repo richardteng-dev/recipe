@@ -8,3 +8,7 @@ And this repo contains the instructions on how to make it.
 # Enjoy my recipe!
 last line changed locally
 ### This is a REMOTE change :O
+
+# This is a level 1 header
+
+### This is a level 3 header
