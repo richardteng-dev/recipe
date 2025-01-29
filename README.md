@@ -17,3 +17,7 @@ last line changed locally
 - Second item
 - Third item
 - Fourth item
+
+**This is a sentence in bold**
+
+*This is an italicized sentence*
